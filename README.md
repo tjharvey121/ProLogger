@@ -21,6 +21,10 @@ ProLogger allows you to log custom events into a personal log to keep track of a
 
 ---  
 
+PLACEHOLDER LINK [Story Board](https://projects.invisionapp.com/prototype/ckaon3uss00efga01lu3ssg1c/play)
+
+![ProloggerStoryBoard01](https://user-images.githubusercontent.com/63562613/82966296-944ad900-9f98-11ea-8d4b-dee3a7355bb9.JPG)  
+
 ## Requirements  
 
 ---  
@@ -249,7 +253,14 @@ As a user who is interested in an application to keep a personal log that tracks
 
 ### Class Diagram Description  
 
-**MainActivity:**   
+**MainActivity:** The first screen the user sees. This will have a list of tasks that were logged or that are to be completed.  
+
+**Class1:**   
+
+**Class2:**   
+
+**Class3:**   
+
 
 
 ## Scrum Roles  
@@ -267,10 +278,10 @@ Developer: Danielle Maddux
 
 ---  
 
-Thursday at 8 PM. Use this WebEx:
+Tuesdays at 8:30 PM and Thursdays at 8:00 PM. Use this WebEx:
 <br/>
 Meeting Information Meeting link:
 <br/>
-https://ucinnstudents.webex.com/ucinnstudents/j.php?MTID=m64fca8a0056d3f07514b1b8316c8ba11
+https://ucinnstudents.webex.com/ucinnstudents/j.php?MTID=mf68f3ea9ad99228b4791ba8ca4da6bfd
 <br/>
-Meeting number: 475 359 782
+Meeting number: 471 291 373
