@@ -21,9 +21,9 @@ ProLogger allows you to log custom events into a personal log to keep track of a
 
 ---  
 
-PLACEHOLDER LINK [Story Board](https://projects.invisionapp.com/prototype/ckaon3uss00efga01lu3ssg1c/play)
+[Story Board](https://projects.invisionapp.com/prototype/ckaon3uss00efga01lu3ssg1c/play)
 
-![ProloggerStoryBoard01](https://user-images.githubusercontent.com/63562613/82966296-944ad900-9f98-11ea-8d4b-dee3a7355bb9.JPG)  
+![ProLoggerScreenShots](https://user-images.githubusercontent.com/63562613/83206285-8c1ca600-a11e-11ea-91af-4658c860cfaa.png)  
 
 ## Requirements  
 
@@ -251,17 +251,28 @@ As a user who is interested in an application to keep a personal log that tracks
 
 ---  
 
+![Prologger_UML_Diagram](https://user-images.githubusercontent.com/63562613/83206346-ab1b3800-a11e-11ea-8176-fe206f4878c0.jpg)  
+
+
 ### Class Diagram Description  
 
-**MainActivity:** The first screen the user sees. This will have a list of tasks that were logged or that are to be completed.  
+**MainActivity:**  The first screen the user sees. This will have a list of tasks that were logged or that are to be completed.  
 
-**Class1:**   
+**RetrofitLogInstance:**  Bootstrap class required for Retrofit.  
 
-**Class2:**   
+**PhotoDetailActivity:**  A screen that shows photo details attached to the log.  
 
-**Class3:**   
+**ContactsDetailActivity:**  A screen that shows the details of the user contacts.  
 
+**Log:**  Noun class that represents the log.  
 
+**Photo:**  Noun class that represents a photo.  
+
+**Contacts:**  Noun class that represents a contact.  
+
+**ILogDao:**  Interface for Retrofit to find and parse log data.  
+
+**IPhotoDAO:**  Interface for Retrofit to find and parse photo data.  
 
 ## Scrum Roles  
 
@@ -284,4 +295,10 @@ Meeting Information Meeting link:
 <br/>
 https://ucinnstudents.webex.com/ucinnstudents/j.php?MTID=mf68f3ea9ad99228b4791ba8ca4da6bfd
 <br/>
-Meeting number: 471 291 373
+Meeting number: 471 291 373  
+<br/>
+See recordings at this link:
+<br/>
+https://ucinnstudents.webex.com/recordingservice/sites/ucinnstudents/recording/play/5bcc4e1c739543b98a6a1af8c140eef9  
+
+
