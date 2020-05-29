@@ -21,7 +21,7 @@ ProLogger allows you to log custom events into a personal log to keep track of a
 
 ---  
 
-[Story Board](https://projects.invisionapp.com/prototype/ckaon3uss00efga01lu3ssg1c/play)
+[Story Board](https://projects.invisionapp.com/prototype/ckasgvpt700kyob01x4gv0q6e/play)
 
 ![ProLoggerScreenShots](https://user-images.githubusercontent.com/63562613/83206285-8c1ca600-a11e-11ea-91af-4658c860cfaa.png)  
 
